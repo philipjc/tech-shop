@@ -1,0 +1,19 @@
+.ProductOptions {
+  display: flex;
+  margin-top: 15px;
+}
+
+.ProductOptions__Button {
+  display: flex;
+  flex: 1;
+  padding: 10px 5px;
+  justify-content: center;
+}
+
+.ProductOptions__Button--add {
+  background-color: tomato;
+}
+
+.ProductOptions__Button--view {
+  background-color: aquamarine;
+}

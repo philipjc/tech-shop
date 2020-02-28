@@ -1,0 +1,10 @@
+.Shop {
+  display: flex;
+  flex: 2;
+}
+
+.Shop__List {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
